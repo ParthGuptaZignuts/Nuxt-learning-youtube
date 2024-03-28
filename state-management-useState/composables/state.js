@@ -1,0 +1,1 @@
+export default  useReward = () =>  useState("reward" ,()=> 10) ;
